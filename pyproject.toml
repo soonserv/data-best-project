@@ -2,4 +2,8 @@
 name = "data-best-project"
 version = "0.1.0"
 requires-python = ">=3.9"
-dependencies = []
+dependencies = [
+    "jupyterlab>=4.5.7",
+    "matplotlib>=3.9.4",
+    "pandas>=2.3.3",
+]
